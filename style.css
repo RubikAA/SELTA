@@ -9,6 +9,7 @@
 
 body{
     background: url("city.jpg") no-repeat fixed 100% 100%;
+    max-width: 100%;
     background-color: #222;
     background-size: cover;
 }
